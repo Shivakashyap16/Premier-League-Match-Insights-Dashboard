@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs and outputs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Data files
+*.sqlite
+*.db
+*.csv
+*.xlsx
+*.pkl
+*.h5
+
+# Python virtual environments
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Compiled files
+*.so
+*.out
+*.o
+*.a
+*.pyc
+*.pyo
