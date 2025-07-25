@@ -127,7 +127,7 @@ Then open the URL (usually `http://localhost:8501`) in your browser.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License — you are free to use, modify, and distribute it with proper attribution.
 
 ---
 
